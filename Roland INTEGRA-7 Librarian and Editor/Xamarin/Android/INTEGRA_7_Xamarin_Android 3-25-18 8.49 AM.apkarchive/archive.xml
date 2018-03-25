@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Name>INTEGRA_7_Xamarin.Android</Name>
+  <PackageName>se.masterberg.INTEGRA_7_Xamarin</PackageName>
+  <PackageVersionCode>1</PackageVersionCode>
+  <PackageVersionName>0.1</PackageVersionName>
+  <CreationDate>636575573518118053</CreationDate>
+  <SolutionName>INTEGRA-7_Xamarin</SolutionName>
+  <SolutionPath>D:\Users\hbe_000\Projects\INTEGRA-7_Xamarin\INTEGRA-7_Xamarin.sln</SolutionPath>
+  <Status></Status>
+  <Configuration>
+    <DebugMode>false</DebugMode>
+  </Configuration>
+</Archive>
